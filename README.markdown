@@ -1,4 +1,4 @@
-Static `gettext`
+Static `gettext` hello
 ===============
 
 Django's internationalization framework is a relatively clean integration
